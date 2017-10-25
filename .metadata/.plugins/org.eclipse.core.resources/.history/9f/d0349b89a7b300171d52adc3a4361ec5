@@ -1,0 +1,3 @@
+logging.level.org.springframework=INFO
+endpoints.enabled=true
+server.port=9090

@@ -1,0 +1,5 @@
+package com.moreti.springboot.basics.springbootin10steps;
+
+public class Book {
+
+}

@@ -1,0 +1,16 @@
+package com.moreti.database.databasedemo.jdbc;
+
+import java.util.List;
+
+import org.springframework.stereotype.Repository;
+
+@Repository
+public class PersonJdbcDao {
+
+	@Autowired
+	JdbcTemplate jdbcTemplat;
+	
+	public List<Person> findAll() {
+		
+	}
+}

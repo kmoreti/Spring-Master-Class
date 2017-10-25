@@ -1,0 +1,8 @@
+package com.moreti.database.databasedemo.jpa;
+
+import org.springframework.stereotype.Repository;
+
+@Repository
+public class PersonJpaRepository {
+
+}

@@ -1,0 +1,15 @@
+package com.moreti.spring.aop.springaop.aspect;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import com.moreti.spring.aop.springaop.SpringAopApplication;
+
+public class BeforeAspect {
+
+	private Logger logger = LoggerFactory.getLogger(this.getClass());
+
+	public void before() {
+
+	}
+}

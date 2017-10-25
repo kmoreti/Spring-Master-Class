@@ -1,0 +1,36 @@
+package com.moreti.springboot.basics.springbootin10steps;
+
+public class Book {
+	long id;
+	String name;
+	String author;
+	public Book(long id, String name, String author) {
+		super();
+		this.id = id;
+		this.name = name;
+		this.author = author;
+	}
+	public long getId() {
+		return id;
+	}
+	public String getName() {
+		return name;
+	}
+	public String getAuthor() {
+		return author;
+	}
+	@Override
+	public String toString() {
+		StringBuilder builder = new StringBuilder();
+		builder.append("Book [id=");
+		builder.append(id);
+		builder.append(", name=");
+		builder.append(name);
+		builder.append(", author=");
+		builder.append(author);
+		builder.append("]");
+		return builder.toString();
+	}
+	
+	
+}

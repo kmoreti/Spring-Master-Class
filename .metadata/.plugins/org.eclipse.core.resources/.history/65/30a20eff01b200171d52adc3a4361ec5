@@ -1,0 +1,6 @@
+package com.moreti.springmvc;
+
+@Controller
+public class UserController {
+
+}

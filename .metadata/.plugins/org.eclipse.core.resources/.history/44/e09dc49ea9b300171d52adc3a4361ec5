@@ -1,0 +1,8 @@
+logging.level.org.springframework=INFO
+management.security.enabled=false
+endpoints.default.enabled=true
+endpoints.shutdown.enabled=true
+
+info.app.name=Spring Sample Application
+info.app.description=This is my first spring boot application
+info.app.version=1.0.0

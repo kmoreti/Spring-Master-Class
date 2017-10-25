@@ -1,0 +1,12 @@
+package com.moreti.springmvc;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class UserController {
+
+	@RequestMapping("/user")
+	public String getUser() {
+		return "user";
+	}
+}

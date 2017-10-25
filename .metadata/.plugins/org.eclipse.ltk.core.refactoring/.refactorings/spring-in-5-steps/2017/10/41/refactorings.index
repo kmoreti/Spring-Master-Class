@@ -1,0 +1,22 @@
+1507430092852	Copy compilation unit
+1507430105948	Copy compilation unit
+1507430552826	Rename type 'XMLJdbcConnection'
+1507430560598	Rename type 'XMLPersonDAO'
+1507430897121	Copy compilation unit
+1507431090763	Rename local variable 'xmlPersonDAO'
+1507431507519	Rename type 'SpringIn5StepsXMLContextApplication'
+1507431517269	Rename type 'SpringIn5StepsBasicApplication'
+1507431524874	Rename type 'SpringIn5StepsBasicApplication2'
+1507433220880	Delete element
+1507474221275	Copy compilation unit
+1507548060998	Rename local variable 'result'
+1507549087864	Copy compilation unit
+1507549483459	Copy file
+1507549572370	Rename resource 'applicationContext.xml'
+1507549710020	Rename resource 'textContext.xml'
+1507552019166	Rename field 'someCDIDAO'
+1507552214650	Copy compilation unit
+1507552503104	Rename type 'BinarySearchXMLConfigurationTest'
+1507552513452	Rename type 'BinarySearchTest'
+1507552521128	Rename type 'BinarySearchXMLConfigurationTest1'
+1507552857982	Inline local variable 'actualResult'

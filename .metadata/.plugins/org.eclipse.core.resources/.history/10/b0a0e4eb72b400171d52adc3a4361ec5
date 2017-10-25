@@ -1,0 +1,14 @@
+package com.moreti.spring.aop.springaop;
+
+import org.springframework.boot.CommandLineRunner;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.ConfigurableApplicationContext;
+
+@SpringBootApplication
+public class SpringAopApplication implements CommandLineRunner{
+
+	public static void main(String[] args) {
+		ConfigurableApplicationContext applicationContext = SpringApplication.run(SpringAopApplication.class, args);
+	}
+}

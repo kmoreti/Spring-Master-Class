@@ -1,0 +1,9 @@
+1507501323416	Rename package 'com.moreto.mockito.mockitodemo'
+1507501335487	Rename package 'com.moreto.mockito.mockitodemo'
+1507503016652	Rename type 'SomeBusinessTest'
+1507503022774	Copy compilation unit
+1507503048864	Rename type 'SomeBusinessStubTest2'
+1507504440293	Copy compilation unit
+1507504723601	Inline local variable 'result'
+1507504730447	Inline local variable 'result'
+1507505526395	Infer generic type arguments

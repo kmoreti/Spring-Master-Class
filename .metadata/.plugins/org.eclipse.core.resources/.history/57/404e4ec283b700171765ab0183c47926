@@ -1,0 +1,6 @@
+package com.moreti.database.databasedemo.jdbc;
+
+@Repository
+public class PersonJdbcDao {
+
+}

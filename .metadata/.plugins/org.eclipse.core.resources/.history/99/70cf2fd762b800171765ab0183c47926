@@ -1,0 +1,11 @@
+package com.moreti.database.databasedemo.jpa;
+
+import javax.transaction.Transactional;
+
+import org.springframework.stereotype.Repository;
+
+@Repository
+@Transactional
+public class PersonJpaRepository {
+
+}

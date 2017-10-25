@@ -1,0 +1,23 @@
+1506904187371	Copy compilation unit
+1507171166769	Rename local variable 'binarySearchImpl'
+1507171172769	Rename local variable 'binarySearchImpl2'
+1507249367601	Move compilation units
+1507249425264	Copy compilation unit
+1507249552724	Delete element
+1507249570356	Rename type 'SpringIn5StepsApplication'
+1507249582057	Copy compilation unit
+1507256268166	Copy compilation units
+1507256355258	Move compilation unit
+1507256411176	Rename type 'JdbcConnection'
+1507256932175	Copy package
+1507256959598	Delete element
+1507256964677	Delete element
+1507257160373	Copy compilation unit
+1507257274917	Move compilation unit
+1507258792156	Delete element
+1507396066165	Delete element
+1507396109098	Copy compilation unit
+1507396186026	Rename type 'SomeCDIDAO'
+1507396202517	Rename type 'SomeCDIBusiness'
+1507396281306	Copy compilation unit
+1507396693262	Rename local variable 'someCdiBusiness'

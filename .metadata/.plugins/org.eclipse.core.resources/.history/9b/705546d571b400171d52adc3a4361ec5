@@ -1,0 +1,5 @@
+package com.moreti.spring.aop.springaop;
+
+public class Business1 {
+
+}

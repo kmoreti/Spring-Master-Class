@@ -1,0 +1,7 @@
+package com.moreti.spring.aop.springaop.aspect;
+
+import org.aspectj.lang.annotation.Pointcut;
+
+public class CommonJoinPointConfig {
+	@Pointcut("execution(* com.moreti.spring.aop.springaop.data.*.*(..))");
+}

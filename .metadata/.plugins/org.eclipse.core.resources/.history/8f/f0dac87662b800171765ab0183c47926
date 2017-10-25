@@ -1,0 +1,6 @@
+package com.moreti.database.databasedemo.jpa;
+
+@Repository
+public class PersonJpaRepository {
+
+}

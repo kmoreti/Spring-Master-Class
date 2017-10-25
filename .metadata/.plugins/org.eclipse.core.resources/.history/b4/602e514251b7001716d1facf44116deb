@@ -1,0 +1,14 @@
+package com.moreti.spring.aop.springaop.aspect;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+@Configuration
+public class BeforeAspect {
+
+	private Logger logger = LoggerFactory.getLogger(this.getClass());
+
+	public void before() {
+		logger.info("Intercepted Method Calls{}");
+	}
+}

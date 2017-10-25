@@ -1,0 +1,6 @@
+package com.moreti.spring.aop.springaop;
+
+@Repository
+public class Dao1 {
+
+}

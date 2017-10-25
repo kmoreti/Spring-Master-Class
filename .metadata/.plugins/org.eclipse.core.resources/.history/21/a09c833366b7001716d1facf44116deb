@@ -1,0 +1,5 @@
+package com.moreti.spring.aop.springaop.aspect;
+
+public @interface TrackTime {
+
+}

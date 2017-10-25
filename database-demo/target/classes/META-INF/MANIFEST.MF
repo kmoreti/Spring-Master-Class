@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: database-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: kmoreti
+Implementation-Vendor-Id: com.moreti.database
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/database-demo/
+Created-By: Maven Integration for Eclipse
+
